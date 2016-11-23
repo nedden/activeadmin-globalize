@@ -1,13 +1,13 @@
-en:
+ru:
   active_admin:
     globalize:
       translations: "Translations"
       language:
-        de: "German"
-        en: "English"
-        ru: "Russian"
-        es: "Spanish"
-        fr: "French"
+        de: "Немецкий"
+        en: "Английский"
+        ru: "Русский"
+        es: "Испанский"
+        fr: "Французский"
         hu: "Hungarian"
         it: "Italian"
         pt-BR: "Portuguese"
